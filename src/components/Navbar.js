@@ -16,7 +16,7 @@ function Navbar(props) {
       <AppBar position="static" color="primary">
         <Toolbar>
           <IconButton className={classes.menuButton} color="inherit">
-            <span />
+            <span>🇫🇷</span>
           </IconButton>
           <Typography className={classes.title} variant="h6" color="inherit">
             App title
